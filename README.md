@@ -1,16 +1,79 @@
-# projeto_perguntas
 
-A new Flutter project.
+# Projeto Perguntas
 
-## Getting Started
+![badge](https://img.shields.io/github/languages/top/willyoliv/bytebank)
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
 
-This project is a starting point for a Flutter application.
+Tabela de conteúdos
+=================
+<!--ts-->
+   * [Sobre o projeto](#-sobre-o-projeto)
+   * [Layout](#-layout)
+   * [Como executar o projeto](#-como-executar-o-projeto)
+     * [Pré-requisitos](#pré-requisitos)
+     * [Rodando o Aplicativo](#-rodando-o-aplicativo)
+   * [Tecnologias](#-tecnologias)
+<!--te-->
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## 💻 Sobre o projeto
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Este foi meu segundo aplicativo feito em Flutter. O aplicativo é bem simples, o usuário reposde algumas perguntas e no final o app exibi uma classificação.
+
+
+---
+
+## 🎨 Layout
+
+Demonstração do uso do App:
+
+<p align="center">
+  <img alt="ByteBank" title="#Perguntas" src="./assets/app_demo.gif"  width="200px">
+</p>
+
+
+
+---
+
+## 🚀 Como executar o projeto
+Abaixo são apresentados os passos necessários para que o App funcione.
+
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Flutter](https://flutter.dev/docs/get-started/install). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+#### 🎲 Rodando o Aplicativo
+
+```bash
+
+# Clone este repositório
+$ git clone https://github.com/willyoliv/projeto_perguntas.git
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd bytebank
+
+# Instale as dependências
+$ flutter pub get
+
+# Execute a aplicação 
+$ flutter run
+
+
+```
+
+---
+
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Flutter](https://flutter.dev/)
+
+
+
+
+
+
+
