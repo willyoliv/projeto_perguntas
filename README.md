@@ -18,7 +18,7 @@ Tabela de conteúdos
 
 ## 💻 Sobre o projeto
 
-Este foi meu segundo aplicativo feito em Flutter. O aplicativo é bem simples, o usuário reposde algumas perguntas e no final o app exibi uma classificação.
+Este foi meu segundo aplicativo feito em Flutter. O aplicativo é bem simples, o usuário responde algumas perguntas e no final o app exibe uma classificação para ele.
 
 
 ---
